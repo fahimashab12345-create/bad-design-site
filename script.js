@@ -51,10 +51,10 @@
         "WHAT IS BROKEN:",
         brief,
         "",
-        "— sent from baddesignltd.com"
+        "— sent from baddesign.pages.dev"
       ].join("\n");
       window.location.href =
-        "mailto:hello@baddesignltd.com?subject=" +
+        "mailto:fahimashab12345@gmail.com?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
